@@ -21,8 +21,7 @@
 Clone the repository and install dependencies:
 
 ```bash
-git clone <repository-url>
-cd regex-intelligence-enrichment
+cd Regex2NER
 pip install -r requirements.txt
 ```
 
